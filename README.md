@@ -19,4 +19,8 @@ https://bump.sh/doc/realworld/operation/operation-createuser
 5. Используя заголовок авторизации получить данные текущего пользователя (Endpoints -> Get Current User)
 ```
 Ссылку на GitHub-репозиторий с выполненным заданием отправь через поле ниже.
+![reg](https://github.com/deenfoe/JS-Core.-Auth-to-API/assets/144551109/322c844c-147a-41b4-a5d8-5429ed3b0430)
+![login](https://github.com/deenfoe/JS-Core.-Auth-to-API/assets/144551109/457da25b-c7a6-4e77-a53f-17e9923ac524)
+![get](https://github.com/deenfoe/JS-Core.-Auth-to-API/assets/144551109/306c21c9-77d0-4404-86af-f41a09708dab)
+
 
